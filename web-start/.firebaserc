@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "dev": "altamira-erp",
+    "erp": "altamira-erp"
+  }
+}
